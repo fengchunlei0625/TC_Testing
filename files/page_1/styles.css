@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:366px;
+  width:320px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -33,8 +33,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:46px;
-  top:48px;
+  left:0px;
+  top:0px;
   width:320px;
   height:568px;
 }
@@ -68,8 +68,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:136px;
-  top:367px;
+  left:78px;
+  top:373px;
   width:140px;
   height:40px;
 }
